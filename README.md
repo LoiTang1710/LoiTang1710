@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 Giới thiệu về mình
-- 🎓 Hiện là sinh viên chuyên ngành -*Web Development*.
+- 🎓 Hiện là sinh viên chuyên ngành -**Web Development**.
 - 💻 Đang tập trung phát triển các ứng dụng **Full-stack Web**.
 - 🎯 Mục tiêu: Xây dựng những sản phẩm công nghệ tối ưu và hiện đại.
 
